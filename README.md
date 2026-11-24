@@ -1,7 +1,7 @@
 
 # Quiz APP
 
-A brief description of what this project does and who it's for
+An interactive quiz application designed to test knowledge, track scores, and deliver a smooth user experience. Built for learners, trivia fans, and anyone looking for quick, engaging practice.
 
 
 ## 🚀 About Me
